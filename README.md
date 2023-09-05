@@ -95,3 +95,52 @@ With speakers’ permission, 990 sessions/events will be recorded and available 
 
 > **Note.** It is expected that students attend the seminar in person as much as possible.
 
+## Roles and Responsibilities
+
+Please refer to the **Department of Community Health and Epidemiology Graduate Student Handbook** to ensure that you are meeting your program requirements. The handbook can be found [here](https://medicine.usask.ca/documents/graduate-programs/che-handbook.pdf).
+
+### Integrity Defined (from the Office of the University Secretary)
+
+The University of Saskatchewan is committed to the highest standards of academic integrity and honesty. Students are expected to be familiar with these standards regarding academic honesty and to uphold the policies of the University in this respect. Students are particularly urged to familiarize themselves with the provisions of the **Student Conduct & Appeals** section of the University Secretary Website and avoid any behavior that could potentially result in suspicions of cheating, plagiarism, misrepresentation of facts and/or participation in an offence. Academic dishonesty is a serious offence and can result in suspension or expulsion from the University.
+
+All students should read and be familiar with the [Regulations on Academic Student Misconduct](http://www.usask.ca/secretariat/student-conduct-appeals/StudentAcademicMisconduct.pdf) as well as the [Standard of Student Conduct in Non-Academic Matters and Procedures for Resolution of Complaints and Appeals](http://www.usask.ca/secretariat/student-conduct-appeals/StudentNon-AcademicMisconduct.pdf).
+
+For more information on what academic integrity means for students see the **Student Conduct & Appeals** section of the University Secretary Website at: [link](http://www.usask.ca/secretariat/student-conduct-appeals/index.php).
+
+### Examinations with Access and Equity Services (AES)
+
+Students who have disabilities (learning, medical, physical, or mental health) are strongly encouraged to register with **Access and Equity Services (AES)** if they have not already done so. Students who suspect they may have disabilities should contact AES for advice and referrals. In order to access AES programs and supports, students must follow AES policy and procedures. For more information, check [AES website](www.students.usask.ca/aes), or contact AES at 306-966-7273 or aes@usask.ca.
+
+Students registered with AES may request alternative arrangements for mid-term and final examinations. Students must arrange such accommodations through AES by the stated deadlines. Instructors shall provide the examinations for students who are being accommodated by the deadlines established by AES.
+
+## Student Supports
+
+### Student Learning Services
+
+**Student Learning Services (SLS)** offers assistance to U of S undergrad and graduate students. For information on specific services, please see the [SLS web site](http://library.usask.ca/studentlearning/).
+
+### Student and Enrolment Services Division
+
+The **Student and Enrolment Services Division (SESD)** focuses on providing developmental and support services and programs to students and the university community. For more information, see the [students’ web site](http://students.usask.ca).
+
+### Financial Support
+
+Any student who faces challenges securing their food or housing and believes this may affect their performance in the course is urged to contact [Student Central](https://students.usask.ca/student-central.php).
+
+### Aboriginal Students Centre
+
+The **Aboriginal Students Centre (ASC)** is dedicated to supporting Aboriginal student academic and personal success. The centre offers personal, social, cultural and some academic supports to Métis, First Nations, and Inuit students. The centre is also dedicated to intercultural education, bringing Aboriginal and non-Aboriginal students together to learn from, with and about one another in a respectful, inclusive and safe environment. Students are encouraged to visit the [ASC’s Facebook page](https://www.facebook.com/aboriginalstudentscentre/) to learn more.
+
+### International Student and Study Abroad Centre
+
+The **International Student and Study Abroad Centre (ISSAC)** supports student success in their international education experiences at the U of S and abroad. ISSAC is here to assist all international undergraduate, graduate, exchange and English as a Second Language students and their families in their transition to the U of S and Saskatoon. ISSAC offers advising and support on all matters that affect international students and their families and on all matters related to studying abroad. Please visit [students.usask.ca](students.usask.ca) for more information.
+
+### College Supports
+
+Please contact the Graduate Administrator Stephanie Kehrig at stephanie.kehrig@usask.ca if you require support.
+
+## Acknowledgements
+
+### Course Contributor(s)
+
+All faculty, staff, invited speakers, and graduate students.

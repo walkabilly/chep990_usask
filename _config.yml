@@ -1,10 +1,7 @@
 title: CHEP 990 USask
 description: Introduces learners to a variety of current topics in Community Health and Epidemiology. The sessions will comprise of a mix of sessions led by core faculty, invited speakers, and current Masters and PhD students. This multi-term course is a requirement for all graduate students as per policy of the College of Graduate and Postdoctoral Studies.  
 theme: jekyll-theme-minimal
-docs_list_title: CHEP 990 Documentation
-docs:
-- title: Ressources
-  url: ressources.md
-- title: Schedule
-  url: schedule.md
+sidebar:
+  title: "Navigation Links"
+  nav: web-toc
 

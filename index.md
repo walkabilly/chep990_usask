@@ -1,15 +1,5 @@
 ## CHEP 990 USask
 
-|         |                   |
-|------------|------------------------|
-| Code       | CHEP 990               |
-| Term       | 2023 Fall              |
-| Credits    | 3                      |
-| Delivery   | In person              |
-| Location   | TBD              |
-| Start Date | September 11, 2023     |
-| Time       | 12:30 to 1:20pm         |
-
 ## Course Description
 
 A non-credit course that is designed to introduce learners to a variety of current topics in Community Health and Epidemiology. The sessions will comprise of a mix of sessions led by core faculty, invited speakers, and current Masters and PhD students. This multi-term course is a requirement for all graduate students as per policy of the College of Graduate and Postdoctoral Studies.

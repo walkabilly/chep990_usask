@@ -22,7 +22,17 @@ Graduate Teaching Fellowships and Assistantships |	Domestic & International
 Graduate Research Assistantships	| Domestic & International
 [Teacher-Scholar Doctoral Fellowships](https://grad.usask.ca/funding/award-search.php?award=301368GS04) | Domestic & International
 
-### Funding and Scholarships
+### Some more links
+
+* [College of Medicine, Graduate Studies Funding Opportunities](https://medicine.usask.ca/students/graduate-programs/funding.php#top)
+* [College of Graduate and Postdoctoral Studies, Graduate Student Funding page](https://cgps.usask.ca/funding/graduate-awards-scholarships.php#top)
+* [College of Graduate and Postdoctoral Studies, Tri-Agency Info page](https://cgps.usask.ca/funding/tri-agency-info.php#Apply)
+* [Natural Sciences and Engineering Research Council (NSERC)](https://www.nserc-crsng.gc.ca/Students-Etudiants/CGSHarmonization-HarmonizationBESC_eng.asp)
+* [Research Assistantships and Funding - U of S guide](https://vpresearch.usask.ca/students/undergraduate/undergrad-research-opportunities/research-assistantships.php)
+* [University of Saskatchewan - Scholarships, Bursaries and Awards](https://admissions.usask.ca/money/scholarships.php#top)
+* [University of Saskatchewan - Scholarships and awards](https://grad.usask.ca/funding/scholarships.php?utm_source=recruit&utm_medium=email&utm_campaign=commplan_inquirytoapply_grad&utm_content=funding)
+* [CGPS GradStudies overview of the basics of the Canadian Common CV (CCV)](https://www.youtube.com/watch?v=44LElIeVmeQ)
+* [CGPS GradStudies - 2024 Tri-Agency Vanier Application Overview](https://www.youtube.com/watch?v=c5PfjKDf5Yo)
 
 ### Job Ressources
 

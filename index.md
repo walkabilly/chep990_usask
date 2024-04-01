@@ -2,6 +2,25 @@
 
 ### Funding and Scholarships
 
+Award	| Eligibility |
+----- | ----------- |
+CoMGRAD | Domestic & International
+Interdisciplinary Graduate Scholarship (IGS) | Domestic & International
+Dean's Doctoral Scholarship | Domestic & International
+Tri-Agency Doctoral National Competition | Domestic
+Tri-Agency Master's National Competition | Domestic
+Vanier Canada Graduate Scholarships | Domestic & International
+Canada Graduate Scholarships - Michael Smith Foreign Study Supplements | Domestic
+Dr. Rui Feng Graduate Scholarships | Domestic & International
+Hantelman Humanities Scholarships | Domestic & International
+Hope Hunt Scholarships | Domestic & International
+Rhea Ritchie Scholarship in Human Nutrition | Domestic & International
+Robert R. Moffat Memorial Scholarship | Domestic
+Roman & Sonia Stratychuk Graduate Scholarship | Domestic & International
+Wolfe Family Graduate Student Scholarship | Domestic & International
+Graduate Teaching Fellowships and Assistantships |	Domestic & International
+Graduate Research Assistantships	| Domestic & International
+Teacher-Scholar Doctoral Fellowships | Domestic & International
 
 
 ### Funding and Scholarships
@@ -9,9 +28,9 @@
 ### Job Ressources
 
 * Career Readiness Workshops - [https://students.usask.ca/jobs/career-readiness-workshops.php#CareerReadinessSeries](https://students.usask.ca/jobs/career-readiness-workshops.php#CareerReadinessSeries)
-* GPS 974.0 - [https://catalogue.usask.ca/GPS-974](https://catalogue.usask.ca/GPS-974)
+* [GPS 974.0](https://catalogue.usask.ca/GPS-974)
   * Graduate Professional Skills
-GPS 984 - [https://teaching.usask.ca/events/graduate/984-thinking-critically.php#Aboutthiscourse](https://teaching.usask.ca/events/graduate/984-thinking-critically.php#Aboutthiscourse)
+* [GPS 984](https://teaching.usask.ca/events/graduate/984-thinking-critically.php#Aboutthiscourse)
   * Thinking Critically - Professional Skills for Global Citizens
 
 ### [Ten Simple Rules](https://collections.plos.org/collection/ten-simple-rules/)

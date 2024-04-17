@@ -34,6 +34,12 @@ Graduate Research Assistantships	| Domestic & International
 * [CGPS GradStudies overview of the basics of the Canadian Common CV (CCV)](https://www.youtube.com/watch?v=44LElIeVmeQ)
 * [CGPS GradStudies - 2024 Tri-Agency Vanier Application Overview](https://www.youtube.com/watch?v=c5PfjKDf5Yo)
 
+### Writing Support
+
+* USask Writing Help [https://library.usask.ca/studentlearning/writing-help/#top](https://library.usask.ca/studentlearning/writing-help/#top)
+* Essential Skills for Graduate Studies (HPE) [https://openpress.usask.ca/eadm990/chapter/academic-writing/](https://openpress.usask.ca/eadm990/chapter/academic-writing/)
+* English Language Help [https://libguides.usask.ca/writing-help/esl](https://libguides.usask.ca/writing-help/esl)
+
 ### Job Ressources
 
 * Career Readiness Workshops - [https://students.usask.ca/jobs/career-readiness-workshops.php#CareerReadinessSeries](https://students.usask.ca/jobs/career-readiness-workshops.php#CareerReadinessSeries)
